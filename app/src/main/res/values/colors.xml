@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="redPiece">#D80000</color>
+    <color name="yellowPiece">#FFEB3B</color>
+    <color name="greenPiece">#00D800</color>
+    <color name="bluePiece">#0000D8</color>
+    <color name="lightRedPiece">#73D80000</color>
+    <color name="lightYellowPiece">#74FFEB3B</color>
+    <color name="lightGreenPiece">#7300D800</color>
+    <color name="lightBluePiece">#730000D8</color>
+    <color name="lightBluePe">#3B000000</color>
+    <color name="game_type_background">#A727B0</color>
+    <color name="declare_winner_background">#3F78B5</color>
+    <color name="house_choice_background">#009688</color>
+</resources>
